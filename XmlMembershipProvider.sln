@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Web
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wcjj.Providers", "XmlMembership.Provider\Wcjj.Providers.csproj", "{DDD791E7-C2CF-41D3-AA34-055F3DFDD6C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wcjj.Providers.Tests", "XmlMembership.Provider.Tests\Wcjj.Providers.Tests.csproj", "{8FCDE35F-3C37-4AE5-A1A3-921747515140}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDD791E7-C2CF-41D3-AA34-055F3DFDD6C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDD791E7-C2CF-41D3-AA34-055F3DFDD6C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDD791E7-C2CF-41D3-AA34-055F3DFDD6C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDD791E7-C2CF-41D3-AA34-055F3DFDD6C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FCDE35F-3C37-4AE5-A1A3-921747515140}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FCDE35F-3C37-4AE5-A1A3-921747515140}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FCDE35F-3C37-4AE5-A1A3-921747515140}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FCDE35F-3C37-4AE5-A1A3-921747515140}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
