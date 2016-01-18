@@ -17,6 +17,7 @@ namespace Membership.Provider.Tests
         public static string BadPassword() { return "test"; }
         public static string BadEmail() { return "test@test.com"; }
 
-        public static string GoodRole() { return "Admins"; }
+        public static string GoodRole() { return "Admins";
+        }
     }
 }
